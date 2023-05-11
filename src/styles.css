@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.timer {
+  font-size: 5rem;
+  margin: 2rem;
+  color: green;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  font-size: 1.5rem;
+  padding: 1rem 2rem;
+  margin: 0 1rem;
+  background-color: #616161;
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+}
